@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
         message = binding.editDescription.text.toString()
 
         title = "Sample App"
-        message = "We are working of different type of notifications."
+        message = "I are working on different type of notifications."
 
 
 
